@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F6F7F7&center=true&vCenter=true&random=false&width=435&lines=I'm+Ahmed+Saeed+;Front-end+Developer" alt="Typing SVG" /></a>
 </p> 
 
-- Graduated from Information Technology Insitute (ITI) intensive code camp - Front-end and cross platform mobile development track from 3/2023 to 6/2023.
+- Graduated from Information Technology Insitute (ITI) intensive code camp - Front-end and cross platform mobile development track.
 - Bachelor's degree Computers and Artificial Intelligence, Department of IS 2022.
 
 ### Connect with Me :

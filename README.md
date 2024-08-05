@@ -8,7 +8,7 @@
 </p> 
 
 - Graduated from Information Technology Insitute (ITI) intensive code camp - Front-end and cross platform mobile development track.
-- Bachelor's degree Computers and Artificial Intelligence, Department of IS 2022.
+- Bachelor's degree Computers and Artificial Intelligence, Department of Information Systems (2022).
 
 ### Connect with Me :
 

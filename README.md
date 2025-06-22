@@ -19,10 +19,8 @@
 
 ### 🔗 Connect with Me
 
-<a href="https://www.linkedin.com/in/ahmedsaeed217/" target="_blank">
-  <img src="https://img.shields.io/badge/-Ahmed Saeed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me7717180@gmail.com)
+<a href="https://www.linkedin.com/in/ahmedsaeed217/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed Saeed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ahmedalsaeed1999@gmail.com)](mailto:me7717180@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=00201111840140)
 
 ---
